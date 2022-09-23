@@ -1,2 +1,2 @@
-# wiki-backend
+# wiki
 wiki blog with spring boot
